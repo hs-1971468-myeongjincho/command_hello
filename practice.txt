@@ -1,1 +1,4 @@
 this is a practice.
+
+For command line git turtorial
+practice.txt file is edited
